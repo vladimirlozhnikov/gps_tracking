@@ -1,0 +1,68 @@
+/* 
+  LocalizableStrings.strings
+  GPSTracker
+
+  Created by YS on 2/3/13.
+  Copyright (c) 2013 Yury Shubin. All rights reserved.
+*/
+
+"Log in" = "Увайсці";
+"Retrieve my password" = "Аднавіць пароль";
+"Register/ Sign up" = "Зарэгістравацца";
+"Settings" = "Наладкі";
+"Edit alert messages" = "Рэдагаваць шаблонныя тэрміновыя паведамленні";
+"Close" = "Закрыць";
+"Edit my groups" = "Рэдагаваць мае групы";
+"Create group from your address book" = "Стварыць групу з адраснай кнігі";
+"Add/edit group" = "Стварэнне / Рэдагаванне групы";
+"Search for groups" = "Пошук груп";
+"User information" = "Інфармацыя аб карыстальніку";
+"List of users" = "Спіс карыстальнікаў";
+"Access to your group" = "Увайсці ў групу";
+"Alert message" = "Тэрміновае паведамленне";
+"Message history" = "Message history";
+"Message" = "Тэкст паведамлення";
+"Language" = "Мова";
+"Polling Server Frequency" = "Частата дасылання запытаў на сервер";
+"Active In Background" = "Час працы ў згорнутым стане";
+"Edit alert templates" = "Рэдагаваць шаблонныя тэрміновыя паведамленні";
+"Country" = "Краіна";
+"City" = "Горад";
+"Members" = "Спіс карыстальнікаў";
+"Owner" = "Адміністратар групы";
+"You" = "Вы";
+"Enter text" = "Увядзіце тэкст";
+
+"Invalid Session" = "Сесия састарэла";
+"Invalid Credentials" = "Няверны імя карыстальніка або пароль";
+"Invalid Parameters" = "Няверныя параметры";
+"Invalid Ticket/Card" = "Няверны пароль";
+"UserName is not specified" = "Імя карыстальніка не зададзенае";
+"Database error" = "Памылка БД";
+"Authorization error" = "Памылка аўтарызацыі";
+"User not found" = "Карыстальнік не знойдзены";
+"Access Denied" = "Няма доступу в групу";
+"Specified email is in use" = "Emai заняты";
+"The function is not paid" = "Функцыя не аплачана";
+
+"Always" = "Заўжды";
+"30 minutes" = "30 хвілін";
+"An hour/60 minutes" = "1 гадзіна";
+"3 hours" = "3 гадзіны";
+"12 hours" = "12 гадзін";
+
+"Set automatically" = "Auto";
+"Seldom" = "Рэдка";
+"Very seldom" = "Вельмі рэдка";
+"Average" = "Сярэдне";
+"Often" = "Часта";
+"Very often" = "Вельмі часта";
+
+"Within 1 km" = "да 1 км";
+"from 1 to 5 km" = "ад 1 да 5 км";
+"from 5 to 15 km" = "ад 5 да 15 км";
+"from 15 to 70 km" = "ад 15 да 70 км";
+
+"All groups" = "Усе групы";
+"Open" = "Адчыненая";
+"Closed" = "Зачыненая";

@@ -1,0 +1,68 @@
+/* 
+  LocalizableStrings.strings
+  GPSTracker
+
+  Created by YS on 2/3/13.
+  Copyright (c) 2013 Yury Shubin. All rights reserved.
+*/
+
+"Log in" = "Giriş yap";
+"Retrieve my password" = "Şifremi yeniden kur";
+"Register/ Sign up" = "Kaydol";
+"Settings" = "Ayarlar";
+"Edit alert messages" = "Acil mesajları düzenle";
+"Close" = "Kapat";
+"Edit my groups" = "Gruplarımı düzenle";
+"Create group from your address book" = "Adres defterinden grubu kur";
+"Add/edit group" = "Creazione/Modificazione del gruppo";
+"Search for groups" = "Grubu ara";
+"User information" = "Kullanıcı hakkında bilgi";
+"List of users" = "Kullanıcı listesi";
+"Access to your group" = "Gruba katıl";
+"Alert message" = "Acil mesaj";
+"Message history" = "Mesaj tarihi";
+"Message" = "Mesajın metni";
+"Language" = "Dil";
+"Polling Server Frequency" = "Sunucuya isteme göndermesi sıklığı";
+"Active In Background" = "Çevirilmiş halde çalışma zamanı";
+"Edit alert templates" = "Acil mesajları düzenle";
+"Country" = "Ülke";
+"City" = "Şehir";
+"Members" = "Kullanıcı listesi";
+"Owner" = "Group admin";
+"You" = "Siz";
+"Enter text" = "Metni girin";
+
+"Invalid Session" = "Invalid Session";
+"Invalid Credentials" = "yanlış kullancı adı yada şifre";
+"Invalid Parameters" = "yanlış parametreler";
+"Invalid Ticket/Card" = "yanlış şifre";
+"UserName is not specified" = "Kullanıcı adı girilmedi";
+"Database error" = "Database error";
+"Authorization error" = "Authorization error";
+"User not found" = "Kullanıcı bulunmadı";
+"Access Denied" = "Access Denied";
+"Specified email is in use" = "E-posta kullanılmaktadır";
+"The function is not paid" = "Bu işlev ödenmedi";
+
+"Always" = "Her zaman";
+"30 minutes" = "30 dakika";
+"An hour/60 minutes" = "1 saat";
+"3 hours" = "3 saat";
+"12 hours" = "12 saat";
+
+"Set automatically" = "Auto";
+"Seldom" = "Seyrek";
+"Very seldom" = "Çok seyrek";
+"Average" = "Bazen";
+"Often" = "Sık";
+"Very often" = "Sık sık";
+
+"Within 1 km" = "1 kilometreden az";
+"from 1 to 5 km" = "1 kilometreden 5 kilometreye kadar";
+"from 5 to 15 km" = "5 kilometreden 15 kilometreye kadar";
+"from 15 to 70 km" = "15 kilometreden 70 kilometreye kadar";
+
+"All groups" = "Tüm gruplar";
+"Open" = "Açık";
+"Closed" = "Sınırlı";

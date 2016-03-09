@@ -1,0 +1,68 @@
+/* 
+  LocalizableStrings.strings
+  GPSTracker
+
+  Created by YS on 2/3/13.
+  Copyright (c) 2013 Yury Shubin. All rights reserved.
+*/
+
+"Log in" = "Zaloguj się";
+"Retrieve my password" = "Odzyskaj hasło";
+"Register/ Sign up" = "Zarejestruj się";
+"Settings" = "Ustawienia";
+"Edit alert messages" = "Zredaguj wiadomości alarmowe oparte na szablon";
+"Close" = "Zamknij";
+"Edit my groups" = "Zredaguj moje grupy";
+"Create group from your address book" = "Utwórz grupę z książki adresowej";
+"Add/edit group" = "Utwórz / redaguj grupy";
+"Search for groups" = "Poszukiwanie grupy";
+"User information" = "Informacje o użytkowniku";
+"List of users" = "Lista użytkowników";
+"Access to your group" = "Wejdź do grupy";
+"Alert message" = "Wyślij wiadomość alarmową";
+"Message history" = "Historia wiadomości";
+"Message" = "Treść wiadomości";
+"Language" = "Język";
+"Polling Server Frequency" = "Częstość wniosków wysyłanych do serwera";
+"Active In Background" = "Czas obsługiwania w stanie zwiniętym";
+"Edit alert templates" = "Zredaguj wiadomości alarmowe oparte na szablon";
+"Country" = "Kraj";
+"City" = "Miasto";
+"Members" = "Lista użytkowników";
+"Owner" = "Administrator grupy";
+"You" = "Pan";
+"Enter text" = "Wprowadź tekst";
+
+"Invalid Session" = "Sesja nieważna";
+"Invalid Credentials" = "Nieważne referencje";
+"Invalid Parameters" = "Nieważne parametry";
+"Invalid Ticket/Card" = "Nieważna karta";
+"UserName is not specified" = "Imię użytkownika nie podane";
+"Database error" = "Błąd bazy danych";
+"Authorization error" = "Błąd autoryzacji";
+"User not found" = "Użytkownik nie znaleziony";
+"Access Denied" = "Brak dostępu do grupy";
+"Specified email is in use" = "Specified email is in use";
+"The function is not paid" = "The function is not paid";
+
+"Always" = "Zawsze";
+"30 minutes" = "30 minut";
+"An hour/60 minutes" = "Godzina";
+"3 hours" = "3 godziny";
+"12 hours" = "12 godzin";
+
+"Set automatically" = "Auto";
+"Seldom" = "Rzadko";
+"Very seldom" = "Bardzo rzadko";
+"Average" = "Średnio";
+"Often" = "Często";
+"Very often" = "Bardzo często";
+
+"Within 1 km" = "Do 1 km";
+"from 1 to 5 km" = "Od 1 do 5 km";
+"from 5 to 15 km" = "Od 5 do 15 km";
+"from 15 to 70 km" = "Od 15 do 70 km";
+
+"All groups" = "Wszystkie grupy";
+"Open" = "Otwarta";
+"Closed" = "Zamknięta";

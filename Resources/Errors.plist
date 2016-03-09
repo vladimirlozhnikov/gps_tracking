@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<string>Invalid Session</string>
+	<key>2</key>
+	<string>Invalid Credentials</string>
+	<key>3</key>
+	<string>Invalid Parameters</string>
+	<key>4</key>
+	<string>Invalid Ticket/Card</string>
+	<key>5</key>
+	<string>UserName is not specified</string>
+	<key>7</key>
+	<string>Specified email is in use</string>
+	<key>9</key>
+	<string>Database error</string>
+	<key>10</key>
+	<string>Authorization error</string>
+	<key>11</key>
+	<string>User not found</string>
+	<key>12</key>
+	<string>Access Denied</string>
+	<key>13</key>
+	<string>The function is not paid</string>
+</dict>
+</plist>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="2061" systemVersion="11G63" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="DBAttachment" representedClassName="DBAttachment" syncable="YES">
+        <attribute name="image" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="imageUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="index" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="message" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="DBMessage" inverseName="attachment" inverseEntity="DBMessage" syncable="YES"/>
+    </entity>
+    <entity name="DBCity" representedClassName="DBCity" syncable="YES">
+        <attribute name="index" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="group" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="DBGroup" syncable="YES"/>
+    </entity>
+    <entity name="DBColor" representedClassName="DBColor" syncable="YES">
+        <attribute name="blue" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="green" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="red" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <relationship name="group" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="DBGroup" inverseName="color" inverseEntity="DBGroup" syncable="YES"/>
+    </entity>
+    <entity name="DBCountry" representedClassName="DBCountry" syncable="YES">
+        <attribute name="index" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="group" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="DBGroup" syncable="YES"/>
+    </entity>
+    <entity name="DBGroup" representedClassName="DBGroup" syncable="YES">
+        <attribute name="desc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageFlag" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="ind" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isOpen" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="lastName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nickname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ticket" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="city" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="DBCity" syncable="YES"/>
+        <relationship name="color" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="DBColor" inverseName="group" inverseEntity="DBColor" syncable="YES"/>
+        <relationship name="country" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="DBCountry" syncable="YES"/>
+    </entity>
+    <entity name="DBMessage" representedClassName="DBMessage" syncable="YES">
+        <attribute name="date" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="flag" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="index" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isUnread" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="priority" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="text" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="attachment" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="DBAttachment" inverseName="message" inverseEntity="DBAttachment" syncable="YES"/>
+        <relationship name="from" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="DBUser" syncable="YES"/>
+    </entity>
+    <entity name="DBUser" representedClassName="DBUser" syncable="YES">
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageAvatar" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="imageUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="index" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nickName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phoneNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="messages" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="DBMessage" syncable="YES"/>
+        <relationship name="myGroups" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="DBGroup" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="DBAttachment" positionX="160" positionY="192" width="128" height="120"/>
+        <element name="DBCity" positionX="160" positionY="192" width="128" height="90"/>
+        <element name="DBColor" positionX="160" positionY="192" width="128" height="105"/>
+        <element name="DBCountry" positionX="160" positionY="192" width="128" height="90"/>
+        <element name="DBGroup" positionX="160" positionY="192" width="128" height="240"/>
+        <element name="DBMessage" positionX="160" positionY="192" width="128" height="165"/>
+        <element name="DBUser" positionX="160" positionY="192" width="128" height="195"/>
+    </elements>
+</model>

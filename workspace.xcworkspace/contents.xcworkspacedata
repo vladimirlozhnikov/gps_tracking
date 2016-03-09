@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Localization/be/be.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Localization/de/de.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Localization/en/en.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Localization/es/es.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Localization/fr/fr.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Localization/ru/ru.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Localization/zh-Hans/zh-Hans.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GPSTracker.xcodeproj">
+   </FileRef>
+</Workspace>

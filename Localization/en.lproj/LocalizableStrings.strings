@@ -1,0 +1,68 @@
+/* 
+  LocalizableStrings.strings
+  GPSTracker
+
+  Created by YS on 2/3/13.
+  Copyright (c) 2013 Yury Shubin. All rights reserved.
+*/
+
+"Log in" = "Log in";
+"Retrieve my password" = "Retrieve my password";
+"Register/ Sign up" = "Register/ Sign up";
+"Settings" = "Settings";
+"Edit alert messages" = "Edit alert messages";
+"Close" = "Close";
+"Edit my groups" = "Edit my groups";
+"Create group from your address book" = "Create group from your address book";
+"Add/edit group" = "Add/edit group";
+"Search for groups" = "Search for groups";
+"User information" = "User information";
+"List of users" = "List of users";
+"Access to your group" = "Access to your group";
+"Alert message" = "Alert message";
+"Message history" = "Message history";
+"Message" = "Text message";
+"Language" = "Language";
+"Polling Server Frequency" = "Polling Server Frequency";
+"Active In Background" = "Active In Background";
+"Edit alert templates" = "Edit alert templates";
+"Country" = "Country";
+"City" = "City";
+"Members" = "List of users";
+"Owner" = "Owner";
+"You" = "You";
+"Enter text" = "Enter text";
+
+"Invalid Session" = "Invalid Session";
+"Invalid Credentials" = "Invalid Credentials";
+"Invalid Parameters" = "Invalid Parameters";
+"Invalid Ticket/Card" = "Invalid Ticket/Card";
+"UserName is not specified" = "UserName is not specified";
+"Database error" = "Database error";
+"Authorization error" = "Authorization error";
+"User not found" = "User not found";
+"Access Denied" = "Access Denied";
+"Specified email is in use" = "Specified email is in use";
+"The function is not paid" = "The function is not paid";
+
+"Always" = "Always";
+"30 minutes" = "30 minutes";
+"An hour/60 minutes" = "An hour/60 minutes";
+"3 hours" = "3 hours";
+"12 hours" = "12 hours";
+
+"Set automatically" = "Auto";
+"Seldom" = "Seldom";
+"Very seldom" = "Very seldom";
+"Average" = "Average";
+"Often" = "Often";
+"Very often" = "Very often";
+
+"Within 1 km" = "Within 1 km";
+"from 1 to 5 km" = "from 1 to 5 km";
+"from 5 to 15 km" = "from 5 to 15 km";
+"from 15 to 70 km" = "from 15 to 70 km";
+
+"All groups" = "All groups";
+"Open" = "Open";
+"Closed" = "Closed";

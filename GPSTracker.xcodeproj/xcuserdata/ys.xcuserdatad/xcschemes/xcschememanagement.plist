@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Build All.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>Build Localizations.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+		<key>GPSTracker.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>Process Storyboards.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>5A4B2A8416BDD16E00701136</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5A537C7616C016F500C21EB1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5A537C8016C0173B00C21EB1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5A58F87616A1F0F700C043AB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5A67B8D816BDE61200C72FAD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5A67B94B16BDF33600C72FAD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5A7685E8169B10EB00DB2795</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

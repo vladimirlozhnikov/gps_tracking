@@ -1,0 +1,68 @@
+/* 
+  LocalizableStrings.strings
+  GPSTracker
+
+  Created by YS on 2/3/13.
+  Copyright (c) 2013 Yury Shubin. All rights reserved.
+*/
+
+"Log in" = "登录";
+"Retrieve my password" = "修改密码";
+"Register/ Sign up" = "注册";
+"Settings" = "设置";
+"Edit alert messages" = "编辑消息提醒框";
+"Close" = "关闭";
+"Edit my groups" = "编辑群组";
+"Create group from your address book" = "创建联系人群组";
+"Add/edit group" = "新建群组/改动群组";
+"Search for groups" = "群组搜索";
+"User information" = "用户资料";
+"List of users" = "用户名单";
+"Access to your group" = "进入我的群组";
+"Alert message" = "提醒消息";
+"Message history" = "Message history";
+"Message" = "提醒消息内容";
+"Language" = "语言";
+"Polling Server Frequency" = "服务器咨询频率";
+"Active In Background" = "后台模式运行时间";
+"Edit alert templates" = "编辑消息提醒框";
+"Country" = "国家";
+"City" = "城市";
+"Members" = "用户名单";
+"Owner" = "群组管理人";
+"You" = "您";
+"Enter text" = "输入内容";
+
+"Invalid Session" = "无效会话";
+"Invalid Credentials" = "无效凭证";
+"Invalid Parameters" = "无效参数";
+"Invalid Ticket/Card" = "无效客票/无效片";
+"UserName is not specified" = "未输入用户名";
+"Database error" = "数据库错误";
+"Authorization error" = "登录错误";
+"User not found" = "用户不存在";
+"Access Denied" = "没有访问群组权限";
+"Specified email is in use" = "Specified email is in use";
+"The function is not paid" = "The function is not paid";
+
+"Always" = "一直";
+"30 minutes" = "30分钟";
+"An hour/60 minutes" = "一个小时";
+"3 hours" = "三个小时";
+"12 hours" = "十二个小时";
+
+"Set automatically" = "自动设置";
+"Seldom" = "底";
+"Very seldom" = "很底";
+"Average" = "中";
+"Often" = "高";
+"Very often" = "很高";
+
+"Within 1 km" = "1公里";
+"from 1 to 5 km" = "1公里至5公里";
+"from 5 to 15 km" = "5公里至15公里";
+"from 15 to 70 km" = "15公里至70公里";
+
+"All groups" = "群组表";
+"Open" = "公开群组";
+"Closed" = "封闭群组";

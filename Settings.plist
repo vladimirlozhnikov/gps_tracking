@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertTemplates</key>
+	<array/>
+	<key>requestsFrequency</key>
+	<integer>3</integer>
+	<key>activeInBackground</key>
+	<integer>0</integer>
+	<key>lastCityID</key>
+	<integer>-1</integer>
+	<key>lastCountryID</key>
+	<integer>-1</integer>
+	<key>language</key>
+	<integer>0</integer>
+	<key>totalDownloadBytes</key>
+	<integer>0</integer>
+	<key>totalUploadBytes</key>
+	<integer>0</integer>
+	<key>agps</key>
+	<true/>
+</dict>
+</plist>

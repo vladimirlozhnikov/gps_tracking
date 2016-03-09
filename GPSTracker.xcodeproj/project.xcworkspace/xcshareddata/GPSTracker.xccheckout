@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>640BA01F-DBAA-4E88-B25C-04C22FDBD588</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GPSTracker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FB13B166-C48F-4902-B182-0B1EB3399850</key>
+		<string>https://gps-tracker.unfuddle.com/svn/gps-tracker_gpstracker</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>sources/mobile/iphone/trunk/GPSTracker.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FB13B166-C48F-4902-B182-0B1EB3399850</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>FB13B166-C48F-4902-B182-0B1EB3399850</key>
+		<string>https://gps-tracker.unfuddle.com/svn/gps-tracker_gpstracker</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://gps-tracker.unfuddle.com/svn/gps-tracker_gpstracker/sources/mobile/iphone/trunk/GPSTracker.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FB13B166-C48F-4902-B182-0B1EB3399850</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FB13B166-C48F-4902-B182-0B1EB3399850</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gps-tracker_gpstracker</string>
+		</dict>
+	</array>
+</dict>
+</plist>
